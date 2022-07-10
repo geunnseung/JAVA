@@ -43,3 +43,10 @@ javastudy
 - while문
 - do~while
 - for문
+
+//2022-07-10
+- 조건문
+- break문
+--break문은 만나는 즉시 반복문 전체 탈출
+- continue문
+--continue문은 만나면 해당 반복부분 탈출 후 다음반복을 실행
